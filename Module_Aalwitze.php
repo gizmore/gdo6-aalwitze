@@ -28,7 +28,7 @@ final class Module_Aalwitze extends GDO_Module
 		];
 	}
 	
-	public function onInstall()
+	public function onAfterInstall()
 	{
 		Module_Website::instance()->saveConfigVar('theme_color', '#72B7BF');
 		Module_Language::instance()->saveConfigVar('languages', '["de","en"]');
