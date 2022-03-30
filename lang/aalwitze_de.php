@@ -2,7 +2,7 @@
 namespace GDO\Aalwitze\lang;
 return [
 	# Global
-	'keywords' => 'Aal,Aalwitze,Hackwitze,Jokes,Fun,Funny,German Meatjokes',
+	'keywords' => 'Aal,Aalwitze,Jokes,Fun,Funny',
 	
 	# List
 	'mtitle_mettwitze_listwitze' => 'Aalwitze',
